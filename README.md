@@ -1,5 +1,5 @@
 # NBA-Player-Salaries
-This repository contains the notebooks for my second Metis project, using linear regression to analyze NBA player salaries. In get_2016_data.ipynb I use BeautifulSoup to scrape [http://www.basketball-reference.com](http://www.basketball-reference.com) for player salaries and performance statistics. Then, in regression.ipynb, I build several linear regression models with and without regularization. 
+This repository contains the presentations and notebooks for my second Metis project, using linear regression to analyze NBA player salaries. In get_2016_data.ipynb I use BeautifulSoup to scrape [http://www.basketball-reference.com](http://www.basketball-reference.com) for player salaries and performance statistics. Then, in regression.ipynb, I build several linear regression models with and without regularization. 
 
 My most surprising finding was that, once you restrict to features that player's can actually improve, the most correlated feature with salary is defensive rebounds.
 
