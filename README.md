@@ -3,15 +3,15 @@ This repository contains the notebooks for my second Metis project, using linear
 
 My most surprising finding was that, once you restrict to features that player's can actually improve, the most correlated feature with salary is defensive rebounds.
 
-[Defensive Rebounds]()
+[Defensive Rebounds](https://github.com/michaelaaroncantrell/NBA-Player-Salaries/blob/master/images/DRB-scatter.png)
 
 Compare with 3 Point Percentage
 
-[Three Point Percentage]()
+[Three Point Percentage](https://github.com/michaelaaroncantrell/NBA-Player-Salaries/blob/master/images/3PP-scatter.png)
 
 Also interesting was how the distribution of salaries on a given team compared to the NBA's total distribution. For example, the Philadelphia 76ers are all paid very poorly compared to their peers, while the Houston Rockets have no middle class.
 
-[Salary by Team]()
+[Salary by Team](https://github.com/michaelaaroncantrell/NBA-Player-Salaries/blob/master/images/salary-by-team.png)
 
 Of course my models didn't account for all of the variance in player salary, with most models accounting for about half $R^2\approx 0.5$. Interestingly enough, taking a look at the players that my model predicted were most over and underpaid, CJ McCollum, the player my model indicated was most *under paid* actually won the most improved player of the year award in 2016, and his salary went up 700% the following year, to approximately what my model predicted he deserved.
 
